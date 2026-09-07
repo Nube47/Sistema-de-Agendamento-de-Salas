@@ -1,1 +1,0 @@
-import {blocos, seed} from "./jsModules/dados.js";

@@ -1,25 +1,4 @@
-export const seed = [
-    {
-      nomeSolicitante: "Carlos",
-      bloco: "Bloco A",
-      sala: "101",
-      data: "2026-09-05",
-    },
-    {
-        nomeSolicitante: "George",
-        bloco: "Bloco B",
-        sala: "101",
-        data: "2026-09-06",
-      },
-      {
-        nomeSolicitante: "Kleyton",
-        bloco: "Bloco A",
-        sala: "102",
-        data: "2026-09-07",
-      }
-  ];
-  
-  export const blocos = [
+export const blocosArray = [
     {
       id: 0,
       nome: "Bloco A",
@@ -57,4 +36,5 @@ export const seed = [
             }
         ]
       }
-  ];
+  ]
+export const reservasArray = []
